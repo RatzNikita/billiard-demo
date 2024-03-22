@@ -1,0 +1,8 @@
+.container {
+    margin: 50px;
+    border: 1px solid aquamarine;
+}
+
+.canvas {
+    display: block;
+}
